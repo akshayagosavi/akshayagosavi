@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/akshaya-gosavi-35a3aa276/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+  <a href="mailto:akshayagosavi3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -19,7 +19,7 @@
 ### 🙋 About Me
 - 🌱 Learning: Kafka · Databricks · FastAPI · Power BI · PySpark
 - 🎯 Goal: Data Engineer / ML Engineer role
-- ⚡ Fun fact: I like Jujutsu Kaisen & I like data pipelines equally
+- ⚡ Fun fact: I like Mandala & I like data pipelines equally
 
 ### 🛠️ Tech Stack
 
@@ -39,7 +39,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
+![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 <!-- Replace YOUR_USERNAME everywhere below -->
 ### 📊 GitHub Stats
