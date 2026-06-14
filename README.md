@@ -1,7 +1,7 @@
 <!-- Replace YOUR_USERNAME with your GitHub username -->
 <h1 align="center">Hi, I'm Akshaya 👋</h1>
 <p align="center">
-  🎓 PG-DBDA @ CDAC, Pune &nbsp;|&nbsp; 📍 Mumbai, India<br/>
+  🎓 PG-DBDA @ CDAC &nbsp;|&nbsp; 📍 Mumbai, India<br/>
   Big Data · Machine Learning · Data Engineering
 </p>
 
@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/akshaya-gosavi-35a3aa276/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:akshayagosavi3@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
