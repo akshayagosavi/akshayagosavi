@@ -14,7 +14,7 @@
 ---
 
 ### 🙋 About Me
-- 🌱 Learning: Kafka · Databricks · FastAPI · Power BI · PySpark
+- 🌱 Learning: Kafka · FastAPI · Power BI · PySpark
 - 🎯 Goal: Data Engineer / ML Engineer role
 - ⚡ Fun fact: I like Mandala & I like data pipelines equally
 
@@ -29,7 +29,6 @@
 **Big Data & Cloud**
 ![Apache Spark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 **ML & Analytics**
